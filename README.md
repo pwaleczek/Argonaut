@@ -9,7 +9,7 @@ Color scheme based on David Lee's argonaut TextMate theme.
 
 Icons from [glyphicons.com](http://www.glyphicons.com/).
 
-![Argonaut theme](https://github.com/pwaleczek/Argonaut/master/Argonaut.png)
+![Argonaut theme](https://github.com/pwaleczek/Argonaut/blob/master/Argonaut.png)
 
 Clean, minimalist and ofcourse as flat as possible. Created to look awesome with a few other apps with this color scheme.
 
