@@ -20,6 +20,8 @@ Installation
 ---------------------------------------------------
 ###Package Control
 
+Found in package control under the name `Theme - Argonaut`.
+
 Update your `Settings - User` file with:
 
 ```json
