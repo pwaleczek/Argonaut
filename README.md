@@ -46,7 +46,9 @@ Update your `Settings - User` file with:
   cd ~/.config/sublime-text-3/Packages
 
   # Windows
-  # I don't know and don't care. Sorry
+  cd %appdata%\Sublime Text 2\Packages
+  # or
+  cd %appdata%\Sublime Text 3\Packages
 
   git clone git://github.com/pwaleczek/Argonaut.git 'Theme - Argonaut'
 ```
