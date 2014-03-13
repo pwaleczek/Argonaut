@@ -1,6 +1,5 @@
 Argonaut
 =========
-[![Flattr Button](http://api.flattr.com/button/button-compact-static-100x17.png "Flattr This!")](https://github.com/pwaleczek/Argonaut "Argonaut Sublime Text Theme")
 [![pwaleczek @ gittip](http://img.shields.io/gittip/pwaleczek.svg)](https://www.gittip.com/pwaleczek/)
 
 Sublime Text 2/3 Theme based on [Centurion Theme](https://raw.github.com/allanhortle/Centurion) by [Allan Hortle](https://raw.github.com/allanhortle)
