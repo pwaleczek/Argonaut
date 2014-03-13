@@ -16,6 +16,8 @@ Clean, minimalist and ofcourse as flat as possible. Created to look awesome with
 More of the [Argonaut Color Themes](https://github.com/pwaleczek/Argonaut-theme)
 
 
+[![pwaleczek @ gittip](http://img.shields.io/gittip/pwaleczek.svg)](https://www.gittip.com/pwaleczek/)
+
 Installation
 ---------------------------------------------------
 ###Package Control
